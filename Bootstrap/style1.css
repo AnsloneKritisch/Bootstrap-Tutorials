@@ -1,0 +1,13 @@
+.cont{
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 50px;
+    height:500px ;
+}
+
+
+.img{
+    width: 300px;
+    height: 500px;
+}

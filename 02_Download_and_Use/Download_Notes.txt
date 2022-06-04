@@ -8,4 +8,4 @@ What to Download and from Where ?
 
 4. Then delete all the files from the CSS and JS except --> bootstrap.min --> in both folders
 
-5. Then 
+5. Then  
