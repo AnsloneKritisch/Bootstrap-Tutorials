@@ -8,4 +8,17 @@ What to Download and from Where ?
 
 4. Then delete all the files from the CSS and JS except --> bootstrap.min --> in both folders
 
-5. Then  
+5. Then  create a file name inside JS folder -> popper.js
+
+6. Here is the link of the file ->https://code.jquery.com/jquery-3.6.0.min.js
+
+7. Then  create a file name inside JS folder -> jquery.js
+
+8. Here is the link of the file ->https://code.jquery.com/jquery-3.3.1.slim.min.js
+
+9. Things we Need to include using Bootstrap
+
+   1. We need to inlude CSS_min_css after Title .
+   2. We need to inlude JS/jquery in Body.
+   3. We need to inlude JS/jpopper in Body.
+   4. We need to inlude Bootstrap_min_JS in Body.
