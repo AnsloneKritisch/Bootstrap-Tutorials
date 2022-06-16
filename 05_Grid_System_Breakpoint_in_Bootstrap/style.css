@@ -1,3 +1,22 @@
 .cont{
-    
+    text-align:center;
+    border:2px solid black ;
+
+}
+
+.colour1{
+    padding: 10px;
+    background-color: tomato;
+    color: white;
+}
+
+.colour2{
+    padding: 10px;
+    background-color: purple;
+    color: white;
+}
+.colour3{
+    padding: 10px;
+    background-color: greenyellow;
+    color: black;
 }
